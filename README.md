@@ -73,7 +73,7 @@ insurance-claim-analysis-dashboard/
 ## Screenshots
 
 ### Insurance Overview Dashboard
-![Insurance Dashboard](screenshot.png)
+![Insurance Dashboard](Screenshot.png)
 
 ---
 
